@@ -1,2 +1,9 @@
-# NLP
-
+@'
+.venv/
+.env/
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+'@ | Set-Content .gitignore
