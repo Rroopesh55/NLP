@@ -7,7 +7,7 @@
 > Perfect for practicing tokenization, vectorization, basic model training
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
 - Spam_and_Ham_Project_using_BOW.ipynb — End-to-end SMS spam classifier using a Bag-of-Words pipeline (cleaning → vectorization → model → metrics).
 - Word2Vec_Implementation.ipynb — Word2Vec exploration/implementation notebook.   
